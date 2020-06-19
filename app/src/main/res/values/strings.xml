@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Todo Firebase</string>
+    <string name="add">Add</string>
+    <string name="todo_added_successfully">Todo added successfully</string>
+    <string name="please_enter_a_todo_item">Please enter a todo item</string>
+    <string name="logout">Logout</string>
+</resources>
